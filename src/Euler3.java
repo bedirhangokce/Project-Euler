@@ -13,6 +13,7 @@ public class Euler3 {
         return true;
     }
     public static void main(String[] args) {
+        long start = System.currentTimeMillis();
         while (num > 1) {
             fac++;
             if (primeCheck(fac) == true){
@@ -22,5 +23,7 @@ public class Euler3 {
             }
         }
         System.out.println(fac);
+        long finish = System.currentTimeMillis();
+        System.out.println("Time taken: " + (finish - start) + " milliseconds");
     }
 }

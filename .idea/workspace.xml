@@ -36,37 +36,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Euler5">
-    <configuration name="Euler1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler1" />
+  <component name="RunManager" selected="Application.Euler12">
+    <configuration name="Euler11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler11" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Euler2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler2" />
+    <configuration name="Euler12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler12" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Euler3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler3" />
+    <configuration name="Euler7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler7" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Euler4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler4" />
+    <configuration name="Euler8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler8" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Euler5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler5" />
+    <configuration name="Euler9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler9" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Euler5" />
-        <item itemvalue="Application.Euler3" />
-        <item itemvalue="Application.Euler4" />
-        <item itemvalue="Application.Euler2" />
-        <item itemvalue="Application.Euler1" />
+        <item itemvalue="Application.Euler12" />
+        <item itemvalue="Application.Euler9" />
+        <item itemvalue="Application.Euler11" />
+        <item itemvalue="Application.Euler8" />
+        <item itemvalue="Application.Euler7" />
       </list>
     </recent_temporary>
   </component>
@@ -92,7 +92,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591636954938</updated>
-      <workItem from="1591636957612" duration="7097000" />
+      <workItem from="1591636957612" duration="15089000" />
+      <workItem from="1591695214836" duration="7136000" />
     </task>
     <servers />
   </component>
@@ -104,7 +105,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

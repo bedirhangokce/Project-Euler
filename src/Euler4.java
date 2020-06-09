@@ -15,6 +15,7 @@ public class Euler4 {
     }
 
     public static void main(String[] args) {
+        long start = System.currentTimeMillis(); // start the stopwatch
         int answer = 0;
         for (int i = 100; i < 999; i++){
             for (int j = 100; j < 999; j++){
@@ -27,5 +28,7 @@ public class Euler4 {
             }
         }
         System.out.println(answer);
+        long finish = System.currentTimeMillis(); // stop the stopwatch
+        System.out.println("Time taken: " + (finish - start) + " milliseconds");
     }
 }

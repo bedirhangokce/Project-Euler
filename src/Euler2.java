@@ -20,6 +20,10 @@ public class Euler2 {
         return evensum;
     }
     public static void main(String[] args) {
+
+        long start = System.currentTimeMillis(); // start the stopwatch
         System.out.println(sum_of_even_fib(4000000));
+        long finish = System.currentTimeMillis(); // stop the stopwatch
+        System.out.println("Time taken: " + (finish - start) + " milliseconds");
     }
 }

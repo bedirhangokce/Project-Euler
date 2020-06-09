@@ -10,6 +10,9 @@ public class Euler1 {
         return sum;
     }
     public static void main(String[] args) {
+        long start = System.currentTimeMillis(); // start the stopwatch
         System.out.println(sum_of_div_35(1000));
+        long finish = System.currentTimeMillis(); // stop the stopwatch
+        System.out.println("Time taken: " + (finish - start) + " milliseconds");
     }
 }
