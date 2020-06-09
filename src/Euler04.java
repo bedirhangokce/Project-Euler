@@ -1,7 +1,7 @@
 /*
 Find the largest palindrome made from the product of two 3-digit numbers.
  */
-public class Euler4 {
+public class Euler04 {
     static Boolean isPalindrome(int x){
         int num=x;
         int reversenum =0;

@@ -1,4 +1,4 @@
-public class Euler7 {
+public class Euler07 {
     static int primeNum(int x){
         int temp = 0;
         for (int i  = 2; i < 2000000; i++){

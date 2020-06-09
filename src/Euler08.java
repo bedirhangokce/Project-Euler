@@ -2,7 +2,7 @@
 Find the thirteen adjacent digits in the 1000-digit number
 that have the greatest product. What is the value of this product?
  */
-public class Euler8 {
+public class Euler08 {
     static Long largestProduct(String num){
 
         long n1, n2, n3, n4, n5, n6, n7, n8, n9, n10, n11, n12, n13;

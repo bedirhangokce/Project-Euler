@@ -3,7 +3,7 @@ Find the difference between the sum of the
 squares of the first one hundred natural
 numbers and the square of the sum.
  */
-public class Euler6 {
+public class Euler06 {
     static int sumSquareDiff(int x){
         int sumOfSquare = 0,squareOfSum = 0;
         for (int i = 1; i <= x ; i++){

@@ -36,7 +36,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Euler12">
+  <component name="RunManager" selected="Application.Euler05">
+    <configuration name="Euler05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler05" />
+      <module name="Project-euler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Euler11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Euler11" />
       <module name="Project-euler" />
@@ -46,13 +53,6 @@
     </configuration>
     <configuration name="Euler12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Euler12" />
-      <module name="Project-euler" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Euler7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler7" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +74,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Euler05" />
         <item itemvalue="Application.Euler12" />
         <item itemvalue="Application.Euler9" />
         <item itemvalue="Application.Euler11" />
         <item itemvalue="Application.Euler8" />
-        <item itemvalue="Application.Euler7" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1591636954938</updated>
       <workItem from="1591636957612" duration="15089000" />
-      <workItem from="1591695214836" duration="7136000" />
+      <workItem from="1591695214836" duration="7422000" />
     </task>
     <servers />
   </component>

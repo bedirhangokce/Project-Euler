@@ -2,7 +2,7 @@
 What is the smallest positive number that is evenly
 divisible by all of the numbers from 1 to 20?
  */
-public class Euler5 {
+public class Euler05 {
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
         long x = 20;

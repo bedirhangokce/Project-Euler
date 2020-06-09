@@ -3,7 +3,7 @@ By considering the terms in the Fibonacci
 sequence whose values do not exceed four million,
 find the sum of the even-valued terms.
  */
-public class Euler2 {
+public class Euler02 {
     private static int sum_of_even_fib(int x){
         int sum = 0, evensum = 0;
         int a = 0;

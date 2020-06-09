@@ -1,7 +1,7 @@
 /*
 What is the largest prime factor of the number 600851475143 ?
  */
-public class Euler3 {
+public class Euler03 {
     static long num = 600851475143L;
     static long fac = 1;
     static boolean primeCheck(long x){
