@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be215138-6af0-46a7-82a2-92e11b2c08d0" name="Default Changelist" comment="" />
+    <list default="true" id="be215138-6af0-46a7-82a2-92e11b2c08d0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Project-euler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project-euler.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler01.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler04.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler05.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler10.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler7.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler9.class" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,12 +32,21 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1d2xOB7AVJCZDqw0AGIA2dI0rPZ" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -36,16 +60,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Euler05">
-    <configuration name="Euler05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler05" />
-      <module name="Project-euler" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Euler11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler11" />
+  <component name="RunManager" selected="Application.Euler16">
+    <configuration name="Euler01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler01" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -58,15 +75,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Euler8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler8" />
+    <configuration name="Euler13" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler13" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Euler9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler9" />
+    <configuration name="Euler15" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler15" />
+      <module name="Project-euler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Euler16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler16" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -74,11 +98,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Euler05" />
+        <item itemvalue="Application.Euler16" />
         <item itemvalue="Application.Euler12" />
-        <item itemvalue="Application.Euler9" />
-        <item itemvalue="Application.Euler11" />
-        <item itemvalue="Application.Euler8" />
+        <item itemvalue="Application.Euler01" />
+        <item itemvalue="Application.Euler15" />
+        <item itemvalue="Application.Euler13" />
       </list>
     </recent_temporary>
   </component>
@@ -93,7 +117,9 @@
       <option name="presentableId" value="Default" />
       <updated>1591636954938</updated>
       <workItem from="1591636957612" duration="15089000" />
-      <workItem from="1591695214836" duration="7422000" />
+      <workItem from="1591695214836" duration="8441000" />
+      <workItem from="1591727023450" duration="11841000" />
+      <workItem from="1591775422176" duration="4829000" />
     </task>
     <servers />
   </component>
