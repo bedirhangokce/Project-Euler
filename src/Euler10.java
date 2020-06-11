@@ -2,7 +2,6 @@
 Find the sum of all the primes below two million.
  */
 public class Euler10 {
-
     static long sumOfPrimes(int value){
         long sum = 0;
         for (int i = 2; i < value; i++){
@@ -13,10 +12,10 @@ public class Euler10 {
         return sum;
     }
     private static boolean isPrime(int n){
-        if (n <= 1) {
+        if (n < 2) {
             return false;
-        }
-        for (int i = 2; i < (n/2)+1; i++) {
+        }else if (n == 2) return true;
+        for (int i = 2; i < Math.sqrt(n) + 1; i++) {
             if (n % i == 0) {
                 return false;
             }

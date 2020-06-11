@@ -2,30 +2,29 @@
 Which starting number, under one million, produces the longest chain?
 "Longest Collatz sequence"
  */
-import java.util.LinkedList;
 
 public class Euler14 {
     static long number(int x){
         long answer = 0;
         long temp,max = 0;
-        LinkedList<Long> list = new LinkedList<>();
+        long a = 0;
         for (int i = 1; i < x; i++){
             temp = i;
             while (temp != 1){
                 if (temp % 2 == 1){
                     temp = (temp * 3) + 1;
-                    list.add(temp);
+                    a++;
                 }
                 if (temp % 2 == 0){
                     temp /= 2;
-                    list.add(temp);
+                    a++;
                 }
             }
-                if (list.size() > max){
-                    max = list.size();
+                if (a > max){
+                    max = a;
                     answer = i;
                 }
-            list.clear();
+            a = 0;
         }
         return answer;
     }

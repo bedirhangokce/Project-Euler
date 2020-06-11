@@ -30,7 +30,7 @@ public class Euler12 {
     }
     public static void main(String[] args) {
         long start = System.currentTimeMillis();
-        System.out.println(divNumberOfTriangleNumber(5000));
+        System.out.println(divNumberOfTriangleNumber(500));
         long finish = System.currentTimeMillis();
         System.out.println("Time taken: " + (finish - start) + " milliseconds");
     }
