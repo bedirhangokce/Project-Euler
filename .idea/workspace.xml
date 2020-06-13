@@ -3,15 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="be215138-6af0-46a7-82a2-92e11b2c08d0" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project-euler.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Project-euler.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler10.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler10.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler12.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler12.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler14.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler14.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler18.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler18.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/META-INF/Project-euler.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Euler10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Euler10.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Euler12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Euler12.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Euler14.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Euler14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler03.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler22.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler22.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Euler03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Euler03.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +55,7 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Application.Euler22">
+  <component name="RunManager" selected="Application.Euler23">
     <configuration name="Euler10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Euler10" />
       <module name="Project-euler" />
@@ -71,13 +65,6 @@
     </configuration>
     <configuration name="Euler12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Euler12" />
-      <module name="Project-euler" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Euler20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler20" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -97,13 +84,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Euler23" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler23" />
+      <module name="Project-euler" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Euler23" />
         <item itemvalue="Application.Euler22" />
         <item itemvalue="Application.Euler21" />
         <item itemvalue="Application.Euler10" />
         <item itemvalue="Application.Euler12" />
-        <item itemvalue="Application.Euler20" />
       </list>
     </recent_temporary>
   </component>
@@ -126,6 +120,10 @@
       <workItem from="1591826398398" duration="7913000" />
       <workItem from="1591866111442" duration="3267000" />
       <workItem from="1591870928305" duration="1843000" />
+      <workItem from="1591954147693" duration="142000" />
+      <workItem from="1591960098513" duration="18000" />
+      <workItem from="1591971510397" duration="11157000" />
+      <workItem from="1592032944278" duration="4517000" />
     </task>
     <servers />
   </component>
@@ -153,22 +151,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1220" y="219" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1591869366199" />
-    <state width="1877" height="248" key="GridCell.Tab.0.bottom" timestamp="1591873989342">
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom" timestamp="1592042704850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591873989342" />
-    <state width="1877" height="248" key="GridCell.Tab.0.center" timestamp="1591873989342">
+    <state width="1877" height="265" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592042704850" />
+    <state width="1877" height="265" key="GridCell.Tab.0.center" timestamp="1592042704850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591873989342" />
-    <state width="1877" height="248" key="GridCell.Tab.0.left" timestamp="1591873989342">
+    <state width="1877" height="265" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592042704850" />
+    <state width="1877" height="265" key="GridCell.Tab.0.left" timestamp="1592042704850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591873989342" />
-    <state width="1877" height="248" key="GridCell.Tab.0.right" timestamp="1591873989342">
+    <state width="1877" height="265" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592042704850" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right" timestamp="1592042704850">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="248" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591873989342" />
+    <state width="1877" height="265" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592042704850" />
     <state x="1081" y="226" key="NewModule_or_Project.wizard" timestamp="1591869379887">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -177,5 +175,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="684" y="152" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591794922548" />
+    <state x="342" y="119" key="new project wizard" timestamp="1591960114554">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="119" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1591960114554" />
   </component>
 </project>
