@@ -1,5 +1,6 @@
 /*
 What is the largest prime factor of the number 600851475143 ?
+Time taken: 1 milliseconds
  */
 public class Euler03 {
     static long num = 600851475143L;
@@ -16,7 +17,7 @@ public class Euler03 {
         long start = System.currentTimeMillis();
         while (num > 1) {
             fac++;
-            if (primeCheck(fac) == true){
+            if (primeCheck(fac)){
                 while (num % fac == 0){
                     num /= fac;
                 }

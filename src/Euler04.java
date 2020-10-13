@@ -1,5 +1,6 @@
 /*
 Find the largest palindrome made from the product of two 3-digit numbers.
+Time taken: 9 milliseconds
  */
 public class Euler04 {
     static Boolean isPalindrome(int x){
@@ -18,7 +19,7 @@ public class Euler04 {
         long start = System.currentTimeMillis(); // start the stopwatch
         int answer = 0;
         for (int i = 100; i < 999; i++){
-            for (int j = 100; j < 999; j++){
+            for (int j = i; j < 999; j++){
                 if (isPalindrome(i*j)){
                     if (answer < i*j){
                         answer = i*j;
