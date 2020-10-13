@@ -1,20 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="be215138-6af0-46a7-82a2-92e11b2c08d0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler01.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler01.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler03.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler03.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler04.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler04.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler05.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler05.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler06.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler06.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler07.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler07.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler08.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler08.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Euler03.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Euler03.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Euler04.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Euler04.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Euler05.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Euler05.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Euler06.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Euler06.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Euler07.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Euler07.java" afterDir="false" />
+    <list default="true" id="be215138-6af0-46a7-82a2-92e11b2c08d0" name="Default Changelist" comment="25-26-27-28">
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler02.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler09.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler11.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler13.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler15.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler16.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler17.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -137,8 +131,16 @@
       <workItem from="1592071426371" duration="481000" />
       <workItem from="1592073721341" duration="89000" />
       <workItem from="1592153882033" duration="681000" />
-      <workItem from="1602593802871" duration="10590000" />
+      <workItem from="1602593802871" duration="10916000" />
     </task>
+    <task id="LOCAL-00001" summary="25-26-27-28">
+      <created>1602611679850</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602611679850</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,11 +158,19 @@
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="25-26-27-28" />
+    <option name="LAST_COMMIT_MESSAGE" value="25-26-27-28" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="440" y="94" key="#Project_Structure" timestamp="1602594871862">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1602594871862" />
+    <state x="156" y="86" key="CommitChangelistDialog2" timestamp="1602611677912">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="156" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602611677912" />
     <state width="1070" height="236" key="GridCell.Tab.0.bottom" timestamp="1602611225814">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
