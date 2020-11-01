@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="be215138-6af0-46a7-82a2-92e11b2c08d0" name="Default Changelist" comment="25-26-27-28">
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler02.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler02.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler09.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler09.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler11.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler11.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler13.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler13.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler15.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler15.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler16.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler16.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler28.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,43 +47,43 @@
     <property name="DatabaseDriversLRU" value="mysql" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Exercism/java/perfect-numbers" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Application.Euler28">
-    <configuration name="Euler01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler01" />
+  <component name="RunManager" selected="Application.Euler32">
+    <configuration name="Euler29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler29" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Euler25" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler25" />
+    <configuration name="Euler30" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler30" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Euler26" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler26" />
+    <configuration name="Euler31" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler31" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Euler27" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler27" />
+    <configuration name="Euler32" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler32" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Euler28" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler28" />
+    <configuration name="Euler33" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler33" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -96,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Euler28" />
-        <item itemvalue="Application.Euler27" />
-        <item itemvalue="Application.Euler26" />
-        <item itemvalue="Application.Euler01" />
-        <item itemvalue="Application.Euler25" />
+        <item itemvalue="Application.Euler32" />
+        <item itemvalue="Application.Euler33" />
+        <item itemvalue="Application.Euler31" />
+        <item itemvalue="Application.Euler30" />
+        <item itemvalue="Application.Euler29" />
       </list>
     </recent_temporary>
   </component>
@@ -131,7 +126,11 @@
       <workItem from="1592071426371" duration="481000" />
       <workItem from="1592073721341" duration="89000" />
       <workItem from="1592153882033" duration="681000" />
-      <workItem from="1602593802871" duration="10916000" />
+      <workItem from="1602593802871" duration="15492000" />
+      <workItem from="1602657019783" duration="3415000" />
+      <workItem from="1602673207585" duration="25000" />
+      <workItem from="1602858524143" duration="439000" />
+      <workItem from="1602860114052" duration="1133000" />
     </task>
     <task id="LOCAL-00001" summary="25-26-27-28">
       <created>1602611679850</created>
@@ -171,38 +170,42 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="156" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602611677912" />
-    <state width="1070" height="236" key="GridCell.Tab.0.bottom" timestamp="1602611225814">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602858962151">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1070" height="236" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602611225814" />
-    <state width="1070" height="236" key="GridCell.Tab.0.center" timestamp="1602611225814">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602858962151" />
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom" timestamp="1602861722354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1070" height="236" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602611225814" />
-    <state width="1070" height="236" key="GridCell.Tab.0.left" timestamp="1602611225814">
+    <state width="1877" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602861722354" />
+    <state width="1877" height="302" key="GridCell.Tab.0.center" timestamp="1602861722354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1070" height="236" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602611225814" />
-    <state width="1070" height="236" key="GridCell.Tab.0.right" timestamp="1602611225814">
+    <state width="1877" height="302" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602861722354" />
+    <state width="1877" height="302" key="GridCell.Tab.0.left" timestamp="1602861722354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1070" height="236" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602611225814" />
-    <state width="1877" height="302" key="GridCell.Tab.1.bottom" timestamp="1602602156134">
+    <state width="1877" height="302" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602861722354" />
+    <state width="1877" height="302" key="GridCell.Tab.0.right" timestamp="1602861722354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602602156134" />
-    <state width="1877" height="302" key="GridCell.Tab.1.center" timestamp="1602602156134">
+    <state width="1877" height="302" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602861722354" />
+    <state width="1877" height="302" key="GridCell.Tab.1.bottom" timestamp="1602861722354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602602156134" />
-    <state width="1877" height="302" key="GridCell.Tab.1.left" timestamp="1602602156134">
+    <state width="1877" height="302" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602861722354" />
+    <state width="1877" height="302" key="GridCell.Tab.1.center" timestamp="1602861722354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602602156134" />
-    <state width="1877" height="302" key="GridCell.Tab.1.right" timestamp="1602602156134">
+    <state width="1877" height="302" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602861722354" />
+    <state width="1877" height="302" key="GridCell.Tab.1.left" timestamp="1602861722354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602602156134" />
+    <state width="1877" height="302" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602861722354" />
+    <state width="1877" height="302" key="GridCell.Tab.1.right" timestamp="1602861722354">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="302" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602861722354" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -211,6 +214,11 @@
           <url>file://$PROJECT_DIR$/src/Euler24.java</url>
           <line>8</line>
           <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Euler33.java</url>
+          <line>3</line>
+          <option name="timeStamp" value="5" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
