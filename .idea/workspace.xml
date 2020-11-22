@@ -3,7 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="be215138-6af0-46a7-82a2-92e11b2c08d0" name="Default Changelist" comment="25-26-27-28">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler28.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler28.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Project-euler/Euler17.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Project-euler/Euler17.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Euler17.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Euler17.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +54,9 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="preferences.updates" />
   </component>
-  <component name="RunManager" selected="Application.Euler32">
-    <configuration name="Euler29" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Euler29" />
+  <component name="RunManager" selected="Application.Euler17">
+    <configuration name="Euler17" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Euler17" />
       <module name="Project-euler" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +92,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Euler17" />
         <item itemvalue="Application.Euler32" />
         <item itemvalue="Application.Euler33" />
         <item itemvalue="Application.Euler31" />
         <item itemvalue="Application.Euler30" />
-        <item itemvalue="Application.Euler29" />
       </list>
     </recent_temporary>
   </component>
@@ -131,6 +132,15 @@
       <workItem from="1602673207585" duration="25000" />
       <workItem from="1602858524143" duration="439000" />
       <workItem from="1602860114052" duration="1133000" />
+      <workItem from="1604228697371" duration="877000" />
+      <workItem from="1604250388697" duration="1000" />
+      <workItem from="1604406675972" duration="7000" />
+      <workItem from="1604411974394" duration="2000" />
+      <workItem from="1604698541482" duration="26000" />
+      <workItem from="1604756209624" duration="2000" />
+      <workItem from="1605626323492" duration="2239000" />
+      <workItem from="1605903202606" duration="2000" />
+      <workItem from="1605977078248" duration="284000" />
     </task>
     <task id="LOCAL-00001" summary="25-26-27-28">
       <created>1602611679850</created>
@@ -170,26 +180,26 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="156" y="86" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1602611677912" />
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1602858962151">
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605977296067">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1602858962151" />
-    <state width="1877" height="302" key="GridCell.Tab.0.bottom" timestamp="1602861722354">
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1605977296067" />
+    <state width="1877" height="233" key="GridCell.Tab.0.bottom" timestamp="1605628564128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1602861722354" />
-    <state width="1877" height="302" key="GridCell.Tab.0.center" timestamp="1602861722354">
+    <state width="1877" height="233" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605628564128" />
+    <state width="1877" height="233" key="GridCell.Tab.0.center" timestamp="1605628564128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1602861722354" />
-    <state width="1877" height="302" key="GridCell.Tab.0.left" timestamp="1602861722354">
+    <state width="1877" height="233" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605628564128" />
+    <state width="1877" height="233" key="GridCell.Tab.0.left" timestamp="1605628564128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1602861722354" />
-    <state width="1877" height="302" key="GridCell.Tab.0.right" timestamp="1602861722354">
+    <state width="1877" height="233" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605628564128" />
+    <state width="1877" height="233" key="GridCell.Tab.0.right" timestamp="1605628564128">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="302" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602861722354" />
+    <state width="1877" height="233" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605628564128" />
     <state width="1877" height="302" key="GridCell.Tab.1.bottom" timestamp="1602861722354">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -206,6 +216,18 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="302" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1602861722354" />
+    <state x="342" y="180" key="new project wizard" timestamp="1605977325490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="180" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1605977325490" />
+    <state x="740" y="263" key="refactoring.ChangeSignatureDialog" timestamp="1605627061004">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="263" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1605627061004" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605627038337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1605627038337" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
